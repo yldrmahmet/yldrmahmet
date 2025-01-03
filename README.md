@@ -1,1 +1,1 @@
-<h1>I am Ahmet, Software Engineering student from Turkey</h1>
+<h1>Software Engineering student</h1>
